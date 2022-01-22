@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **marine5575/marine5575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
